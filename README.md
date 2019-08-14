@@ -1,2 +1,5 @@
 # BDSI_ImagingProject
-Melanoma Classification Files 
+Development of Melanoma Classifier. 
+Project to determine whether an image contains a benign or cancerous growth (nevus vs melanoma)
+
+
